@@ -1,4 +1,4 @@
-#Author: Gloria Ngan
+#Author: Mortyyy
 #LetterCounter.py
 
 # This is a program that counts the lines in a file, then generates a
